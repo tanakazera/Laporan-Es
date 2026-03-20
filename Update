@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.1",
-  "note_latest_version" : "0.0 atau versi 0.0 jika diatas itu dialog muncul",
+  "latest_version": "1.0",
+  "note_latest_version" : "0.0 atau versi 0.0 -> 1.0 dialog muncul",
   "update_title": "Update 5 Tersedia!",
   "update_message": "Versi terbaru menghadirkan fitur baru dan peningkatan performa.",
   "apk_url": "https://github.com/tanakazera/Update-Stress-Detector/raw/refs/heads/main/app-release.apk",
