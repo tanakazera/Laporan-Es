@@ -3,7 +3,7 @@
   "update_title": "Update 5 Tersedia!",
   "update_message": "Versi terbaru menghadirkan fitur baru dan peningkatan performa.",
   "apk_url": "https://github.com/tanakazera/Update-Stress-Detector/raw/refs/heads/main/app-release.apk",
-  "force_update": true,
+  "force_update": false,
   "release_date": "2026-03-20",
   "size": "25MB",
   "changelog": [
